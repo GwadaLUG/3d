@@ -18,9 +18,20 @@
   -- Navigation
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
-
+<!--
 [About](pages/about.md)
-[Download](pages/download.md)
+[Download](pages/download.md)-->
+[Gwadalug](pages/gwadalug.md)
+[Logiciels](pages/logiciels.md)
+[Modélisation](pages/modelisation.md)
+[Texture](pages/texture.md)
+[Éclairage](pages/eclairage.md)_
+[Camera](pages/camera.md)
+[Animation](pages/animation.md)
+[Simulation](pages/simulation.md)
+[Game dév.](pages/game__dev.md)
+[Projets](pages/projets.md)
+
 
 <!-- A more complex navigation example: ----------------------------------------
 
@@ -59,7 +70,8 @@
   -- Let the user choose a theme
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
+  
 
-<!--
-[gimmick:themechooser](Choose theme)
--->
+[gimmick:themechooser](thême)
+
+
